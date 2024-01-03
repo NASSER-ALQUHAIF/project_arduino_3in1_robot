@@ -1,5 +1,4 @@
-Code on https://www.mediafire.com/file/oupp45... 
-Circuit: contact with me on https://wa.me/+967771003002
+to get Circuit: contact with me on https://wa.me/+967771003002
 Components Require for arduino robot projects
 1. Arduino mega or uno.
  2. Motor driver 1293d.
